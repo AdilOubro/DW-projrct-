@@ -1,11 +1,13 @@
 Customer Reviews of Bank Agencies in Morocco - Data Warehouse
-This repository contains the data warehouse project for analyzing customer reviews of bank agencies across Morocco. The project aims to provide insights into customer satisfaction, identify key areas for improvement, and support strategic decision-making for banking institutions in Morocco.
+This repository contains the data warehouse project for analyzing customer reviews of bank agencies across Morocco. 
+The project aims to provide insights into customer satisfaction, identify key areas for improvement, and support strategic decision-making for banking institutions in Morocco.
 
 Project Organizers
 Adil Oubro
 Salma Elnassiry
 Project Overview
-The core objective of this project is to build a robust data warehouse that consolidates customer feedback from various sources related to Moroccan bank agencies. By transforming raw review data into a structured and analyzable format, we enable comprehensive reporting and analytical capabilities.
+The core objective of this project is to build a robust data warehouse that consolidates customer feedback from various sources related to Moroccan bank agencies. 
+By transforming raw review data into a structured and analyzable format, we enable comprehensive reporting and analytical capabilities.
 
 Repository Structure
 This repository is organized as follows:
@@ -15,7 +17,8 @@ dashboard images/: Stores screenshots or exported images of dashboards created f
 data loading/: Includes scripts or documentation related to the initial loading of data into the data warehouse.
 data/: Raw or processed source data files before being loaded into the data warehouse.
 data_transformation/: Holds scripts (e.g., SQL, Python) used for cleaning, transforming, and integrating data into the data warehouse schema.
-paycache/: (Please specify if this folder has a specific purpose related to the project, e.g., temporary payment-related data, caching mechanisms. If not relevant, consider removing or renaming it for clarity.)
+paycache/: (Please specify if this folder has a specific purpose related to the project, e.g., temporary payment-related data, caching mechanisms.
+If not relevant, consider removing or renaming it for clarity.)
 README.md: This file, providing an overview of the project.
 Key Features
 Data Integration: Aggregates customer reviews from diverse sources.
